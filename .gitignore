@@ -1,0 +1,27 @@
+# ufbt / build
+build/
+.dist/
+.ufbt/
+*.fap
+*.elf
+*.map
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
